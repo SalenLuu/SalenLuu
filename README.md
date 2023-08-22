@@ -15,9 +15,8 @@
 ## ✨ About me 
 <br>
 I am a junior front end web developer passionate about creating captivating and functional digital experiences. My focus is on building interactive interfaces using ReactJS, TypeScript, HTML5, and CSS3. I have demonstrated the ability to translate designs into clean and efficient code, providing users with exceptional visual and user experiences.
-<br>
 
-
+#
 
 <br><br><img align="right" src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif" width="180"/>
 <br>
@@ -38,18 +37,30 @@ I am a junior front end web developer passionate about creating captivating and 
 </p><br>
 
 #
-# 
+
 <img align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/23335a137681793.620f4a02711c2.gif" width="140"/>
 <br>
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨ My Design Stack
 <br>
-<h5 align="center">I have extensive experience with the following design tools</h5>
-
 <div align="center">
+<h5>I have extensive experience with the following design tools</h5>
+
   <img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-0-1.png" alt="Adobe Illustrator" width="60">
   <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-0-1.png" alt="Adobe Premiere" width="60">
   <img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-after-effects-logo-0.png" alt="Adobe After Effects" width="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/587px-Blender_logo_no_text.svg.png" alt="Blender" width="50">
 </div>
+<br>
 
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<img align="right" src="https://media.tenor.com/xzjlrhYq_lQAAAAj/cat-nyan-cat.gif">
+<br>
+<p align="center">
+<a href="https://github.com/SalenLuu">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SalenLuu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SalenLuu&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
