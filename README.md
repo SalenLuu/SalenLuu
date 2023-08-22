@@ -56,7 +56,7 @@ I am a junior front end web developer passionate about creating captivating and 
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<img align="right" src="https://media.tenor.com/xzjlrhYq_lQAAAAj/cat-nyan-cat.gif">
+<img align="right" src="https://media.tenor.com/xzjlrhYq_lQAAAAj/cat-nyan-cat.gif" width="50">
 <br>
 <p align="center">
 <a href="https://github.com/SalenLuu">
