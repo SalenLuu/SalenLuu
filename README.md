@@ -4,6 +4,8 @@
 
 <div align="center"><img src="https://github.com/SalenLuu/salenluu/assets/115598035/955b7f2c-0c34-4ee1-8179-acef201683d4" width="300" heigth="80"/></div>
 
+
+
 <div align="center">
 <a href = "https://www.linkedin.com/in/salom%C3%A9-restrepo-lugo-6223591b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%2385BDF8?logo=linkedin&logoColor=white"></a>
 <a href = "https://salome-restrepo-portfolio.netlify.app/" target="_blank"><img src = "https://img.shields.io/badge/Portfolio-%23E5AAEC?logo=undertale&logoColor=white"></a>
@@ -11,19 +13,19 @@
 </div>
 <br>
 
-
-## ✨ About me 
+#
 <br>
+<div align="center"><img src="https://github.com/SalenLuu/salenluu/assets/115598035/38fa5231-583f-431f-af4b-7c3e184b3201" width="130" heigth="40"/></div>
 I am a junior front end web developer passionate about creating captivating and functional digital experiences. My focus is on building interactive interfaces using ReactJS, TypeScript, HTML5, and CSS3. I have demonstrated the ability to translate designs into clean and efficient code, providing users with exceptional visual and user experiences.
 
 #
 
-<br><br><img align="right" src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif" width="180"/>
-<br>
 
-##    ✨ My Tech Stack
 <br>
-<h5 align="center">I have a strong knowledge in the following technologies</h5>
+<div align="center"><img  src="https://github.com/SalenLuu/salenluu/assets/115598035/c0c85286-f249-4950-a16e-cec6bfbad2ca" width="170" heigth="60"/> <img align="right" src="https://user-images.githubusercontent.com/60306074/160750010-f3fe0b78-0090-4f61-be39-9a9ba9f29b3a.gif" width="180"/></div>
+
+<br>
+<h5 align="center">I have a strong knowledge in the following technologies:</h5>
 
 <p align="center">
   <img src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" alt="TypeScript" width="50">
@@ -38,11 +40,9 @@ I am a junior front end web developer passionate about creating captivating and 
 
 #
 
-<img align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/23335a137681793.620f4a02711c2.gif" width="140"/>
-<br>
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨ My Design Stack
-<br>
+<div align="center"><img align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/23335a137681793.620f4a02711c2.gif" width="140"/><br><img src="https://github.com/SalenLuu/salenluu/assets/115598035/8ab9541c-10b8-40e5-a2a6-c8a02e76a530" width="170" heigth="60" /></div>
+
 <div align="center">
 <h5>I have extensive experience with the following design tools</h5>
 
