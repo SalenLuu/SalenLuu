@@ -41,7 +41,7 @@ I am a junior front end web developer passionate about creating captivating and 
 #
 
 
-<div align="center"><img align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/23335a137681793.620f4a02711c2.gif" width="140"/><br><img src="https://github.com/SalenLuu/salenluu/assets/115598035/8ab9541c-10b8-40e5-a2a6-c8a02e76a530" width="170" heigth="60" /></div>
+<div align="center"><img align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/23335a137681793.620f4a02711c2.gif" width="140"/><br><img src="https://github.com/SalenLuu/salenluu/assets/115598035/8ab9541c-10b8-40e5-a2a6-c8a02e76a530" width="190" heigth="60" /></div>
 
 <div align="center">
 <h5>I have extensive experience with the following design tools</h5>
@@ -53,14 +53,15 @@ I am a junior front end web developer passionate about creating captivating and 
 </div>
 <br>
 
+#
+<br>
+<div align="center"><img src="https://github.com/SalenLuu/salenluu/assets/115598035/3e1b089f-3119-4ba9-8498-b55bfb693ab9" width="190"/><br><img src="https://media.tenor.com/xzjlrhYq_lQAAAAj/cat-nyan-cat.gif" width="80">
+</div>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<img align="right" src="https://media.tenor.com/xzjlrhYq_lQAAAAj/cat-nyan-cat.gif" width="50">
 <br>
 <p align="center">
 <a href="https://github.com/SalenLuu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SalenLuu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SalenLuu&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SalenLuu&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SalenLuu&layout=compact&langs_count=8&theme=cobalt"/>
 </a>
 </p>
