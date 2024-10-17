@@ -8,7 +8,6 @@
 
 <div align="center">
 <a href = "https://www.linkedin.com/in/salom%C3%A9-restrepo-lugo-6223591b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%2385BDF8?logo=linkedin&logoColor=white"></a>
-<a href = "https://salome-restrepo-portfolio.netlify.app/" target="_blank"><img src = "https://img.shields.io/badge/Portfolio-%23E5AAEC?logo=undertale&logoColor=white"></a>
 </div>
 <br>
 
